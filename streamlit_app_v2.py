@@ -6,7 +6,6 @@ import io
 import contextlib
 import requests
 import ast
-import torch
 
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
